@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shruthi1406
 - 👀 I’m interested in full stack java developer,python developer,Data Adminstration...
 - 🌱 I’m currently learning java full stack...
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on full stack web developer
 - 📫 How to reach me burkashruthi001@gmail.com
 
 <!---
